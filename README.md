@@ -1,5 +1,15 @@
 # Cabbie -- Readme File
 
+Good things happen when people can move, whether across town or toward their dreams. Opportunities appear, open up, become reality. We intend to start a way to tap a button to get a ride leading to billions of moments of human connection as people around the world go all kinds of places in all kinds of ways.
+
+## About the app
+
+1. The application is made using Android Studio. 
+2. For all the backend work, we have used a high level programming language Java because of its ease of use. 
+3. For storing the user data, we have used Firebase by Google.
+4. For the user interface, XML was used.
+
+
 ## Functionalities
 
 ### 1. Get Started
